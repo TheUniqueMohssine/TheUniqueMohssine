@@ -54,7 +54,7 @@ Building modern web experiences with clean code, interactive animations, and imm
 
 <p align="center">
 
-<img src="img.png" width="100%">
+<a href='https://tubular-tartufo-670a24.netlify.app/poertfolio.html'><img src="img.png" width="100%"></a>
 
 </p>
 
